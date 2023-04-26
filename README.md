@@ -1,3 +1,6 @@
+
+![profile github banner CH](https://github.com/careduh97/careduh97/blob/main/Github-Banner.png)
+
 ### Hi there, my name is Carlos Herrera and I´m a Production Engineer and Full-Stack Software Developer looking for new job challenges 👋
 
 Here are some key information to get you started with my profile:
