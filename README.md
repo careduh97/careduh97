@@ -27,14 +27,14 @@ Thanks to my background, my profile is oriented towards the use of technological
 
 ### :pushpin: Skills and technologies
 
-#### Frontend
+- #### Frontend
 
-![frontend github banner CH]()
+![frontend github banner CH](https://github.com/careduh97/careduh97/blob/main/assets/img/Banner-Frontend-Github.png)
 
-#### Backend
+- #### Backend
 
-![backend github banner CH]()
+![backend github banner CH](https://github.com/careduh97/careduh97/blob/main/assets/img/Banner-Backend-Github.png)
 
-#### Tools
+- #### Tools
 
-![tools github banner CH]()
+![tools github banner CH](https://github.com/careduh97/careduh97/blob/main/assets/img/Banner-Tools-Github.png)
