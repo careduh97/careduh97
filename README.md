@@ -1,5 +1,5 @@
 
-![profile github banner CH](https://github.com/careduh97/careduh97/blob/main/Github-Banner.png)
+![profile github banner CH](https://github.com/careduh97/careduh97/blob/main/assets/img/Github-Profile-Banner.png)
 
 ## Hi there, I'm Carlos Herrera 👋
 
@@ -24,3 +24,17 @@ Production Engineer with more than 2 years of experience in process optimization
 Passionate about the Tech industry and all the innovations that characterize it. Curious, proactive, versatile and in continuous training to improve my digital skills.
 
 Thanks to my background, my profile is oriented towards the use of technological tools for data analysis and problem solving that facilitate sound business decisions. In this way, I can offer a fresh and creative perspective on how to achieve the organisation's objectives.
+
+### :pushpin: Skills and technologies
+
+#### Frontend
+
+![frontend github banner CH]()
+
+#### Backend
+
+![backend github banner CH]()
+
+#### Tools
+
+![tools github banner CH]()
